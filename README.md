@@ -1,8 +1,11 @@
 # Drug-Consumptions-UCI-
 Classify type of drug consumer by personality data
 
+![illicit-drugs](https://user-images.githubusercontent.com/100385953/179436160-70055c15-528d-489d-ae17-2d351825a5a9.jpg)
+
 
 Source:
+
 
 Original Owners of Database: 
 
